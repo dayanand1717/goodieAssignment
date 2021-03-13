@@ -1,0 +1,3 @@
+The Code file, Input file and Output file should be in same directory.
+In input file keep changing the number of employees value and save it regularly everytim,e you change it.
+Then run the code, and checking the output file, once you see the ouput file close it and open it again to see the changes, because it will refresh the output file.
